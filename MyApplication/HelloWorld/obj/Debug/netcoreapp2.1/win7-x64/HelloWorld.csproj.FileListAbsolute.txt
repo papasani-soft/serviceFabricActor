@@ -1,0 +1,17 @@
+F:\dotnet1\serviceFabricActor\MyApplication\HelloWorld\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.Interfaces.dll
+F:\dotnet1\serviceFabricActor\MyApplication\HelloWorld\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.csproj.CoreCompileInputs.cache
+F:\dotnet1\serviceFabricActor\MyApplication\HelloWorld\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.AssemblyInfoInputs.cache
+F:\dotnet1\serviceFabricActor\MyApplication\HelloWorld\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.AssemblyInfo.cs
+F:\dotnet1\serviceFabricActor\MyApplication\HelloWorld\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+F:\dotnet1\serviceFabricActor\MyApplication\HelloWorld\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+F:\dotnet1\serviceFabricActor\MyApplication\HelloWorld\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.exe
+F:\dotnet1\serviceFabricActor\MyApplication\HelloWorld\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.deps.json
+F:\dotnet1\serviceFabricActor\MyApplication\HelloWorld\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.runtimeconfig.json
+F:\dotnet1\serviceFabricActor\MyApplication\HelloWorld\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.runtimeconfig.dev.json
+F:\dotnet1\serviceFabricActor\MyApplication\HelloWorld\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.dll
+F:\dotnet1\serviceFabricActor\MyApplication\HelloWorld\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.pdb
+F:\dotnet1\serviceFabricActor\MyApplication\HelloWorld\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.Interfaces.pdb
+F:\dotnet1\serviceFabricActor\MyApplication\HelloWorld\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.csprojAssemblyReference.cache
+F:\dotnet1\serviceFabricActor\MyApplication\HelloWorld\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.csproj.CopyComplete
+F:\dotnet1\serviceFabricActor\MyApplication\HelloWorld\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.dll
+F:\dotnet1\serviceFabricActor\MyApplication\HelloWorld\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.pdb

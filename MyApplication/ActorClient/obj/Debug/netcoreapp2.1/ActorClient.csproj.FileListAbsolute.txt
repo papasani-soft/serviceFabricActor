@@ -1,0 +1,14 @@
+F:\dotnet1\serviceFabricActor\MyApplication\ActorClient\bin\Debug\netcoreapp2.1\ActorClient.deps.json
+F:\dotnet1\serviceFabricActor\MyApplication\ActorClient\bin\Debug\netcoreapp2.1\ActorClient.runtimeconfig.json
+F:\dotnet1\serviceFabricActor\MyApplication\ActorClient\bin\Debug\netcoreapp2.1\ActorClient.runtimeconfig.dev.json
+F:\dotnet1\serviceFabricActor\MyApplication\ActorClient\bin\Debug\netcoreapp2.1\ActorClient.dll
+F:\dotnet1\serviceFabricActor\MyApplication\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.csprojAssemblyReference.cache
+F:\dotnet1\serviceFabricActor\MyApplication\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.csproj.CoreCompileInputs.cache
+F:\dotnet1\serviceFabricActor\MyApplication\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.AssemblyInfoInputs.cache
+F:\dotnet1\serviceFabricActor\MyApplication\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.AssemblyInfo.cs
+F:\dotnet1\serviceFabricActor\MyApplication\ActorClient\bin\Debug\netcoreapp2.1\ActorClient.pdb
+F:\dotnet1\serviceFabricActor\MyApplication\ActorClient\bin\Debug\netcoreapp2.1\HelloWorld.Interfaces.dll
+F:\dotnet1\serviceFabricActor\MyApplication\ActorClient\bin\Debug\netcoreapp2.1\HelloWorld.Interfaces.pdb
+F:\dotnet1\serviceFabricActor\MyApplication\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.csproj.CopyComplete
+F:\dotnet1\serviceFabricActor\MyApplication\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.dll
+F:\dotnet1\serviceFabricActor\MyApplication\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.pdb
